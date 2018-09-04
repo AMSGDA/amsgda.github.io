@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>AMS Game Development Association</description>
-	<lastBuildDate>Tue, 04 Sep 2018 08:19:02 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 04 Sep 2018 16:03:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -31,7 +31,7 @@
 		<comments>/trader-smiths-spaceship-emporium-by-kupohq/#respond</comments>
 		<pubDate>Tue, 04 Sep 2018 06:46:31 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[PC]]></category>
 
 		<guid isPermaLink="false">/?p=235</guid>
 		<description><![CDATA[Kevin Jayamanna: Team Lead, Designer, Programmer Jenne Hui: Programmer, UI Alice Zhu: Programmer, Artist Jennifer Ahn: Programmer, Artist Ziwen Ran: Writer, Artist Description: Play as the enigmatic Trader Smith, as he becomes embroiled in conflict with a dangerous faction of ruthless intergalactic pirates. Build up &#8230; <a href="/trader-smiths-spaceship-emporium-by-kupohq/" class="more-link"><span>Continue reading<span class="screen-reader-text">Trader Smith&#8217;s Spaceship Emporium By KupoHQ</span></span></a>]]></description>
@@ -96,7 +96,8 @@ Disclaimer: this game is very much in progress, so expect significant changes in
 		<comments>/swordship-by-team-swordship/#respond</comments>
 		<pubDate>Tue, 04 Sep 2018 06:27:47 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[Browser]]></category>
+		<category><![CDATA[PC]]></category>
 
 		<guid isPermaLink="false">/?p=226</guid>
 		<description><![CDATA[Description: Swordship is a 2D physics based fighting game where you fly spaceships that wield giant weapons. Strike your opponents with swords, skewer them with spears or blast them from afar with cannons in this action packed brawler! Play this Game]]></description>
@@ -106,7 +107,7 @@ Strike your opponents with swords, skewer them with spears or blast them from af
 <hr />
 <p style="text-align: center;"><a href="http://swordship.com/"> Play this Game </a></p>
 <p><img class="alignnone size-medium wp-image-229 aligncenter" src="/wp-content/uploads/2018/09/swordship-300x200.png" alt="" width="300" height="200" srcset="/wp-content/uploads/2018/09/swordship-300x200.png 300w, /wp-content/uploads/2018/09/swordship.png 720w" sizes="(max-width: 300px) 100vw, 300px" /></p>
-<p><img src="/wp-content/uploads/2018/09/ha5SgE8.gif" /></p>
+<p><img src="/wp-content/uploads/2018/09/ha5SgE8.gif" alt="" width="300" height="300"/></p>
 ]]></content:encoded>
 			<wfw:commentRss>/swordship-by-team-swordship/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
@@ -117,7 +118,7 @@ Strike your opponents with swords, skewer them with spears or blast them from af
 		<comments>/joes-little-helpers-roasted/#respond</comments>
 		<pubDate>Tue, 04 Sep 2018 06:13:46 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[PC]]></category>
 
 		<guid isPermaLink="false">/?p=206</guid>
 		<description><![CDATA[Charmaine Lee: Programmer Richard Le: Programmer Eden Ding: Programmer Description: Play as Joe the Barista as he fends off waves of unsatisfied customers&#8230;or prepare to get ROASTED! Roasted is a 2D top-down shooter game built with C# in Unity, where players shoot coffee beans at &#8230; <a href="/joes-little-helpers-roasted/" class="more-link"><span>Continue reading<span class="screen-reader-text">Joe’s Little Helpers (Roasted)</span></span></a>]]></description>
