@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>AGDA</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<title>root &#8211; AGDA</title>
+	<atom:link href="/author/root/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>AMS Game Development Association</description>
 	<lastBuildDate>Tue, 04 Sep 2018 07:06:48 +0000</lastBuildDate>
@@ -20,7 +20,7 @@
 
 <image>
 	<url>/wp-content/uploads/2018/08/cropped-IMG_0115-e1533167776511-32x32.jpg</url>
-	<title>AGDA</title>
+	<title>root &#8211; AGDA</title>
 	<link></link>
 	<width>32</width>
 	<height>32</height>
