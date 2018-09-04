@@ -12,7 +12,7 @@
 	<atom:link href="/category/pc/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>AMS Game Development Association</description>
-	<lastBuildDate>Tue, 04 Sep 2018 16:03:23 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 04 Sep 2018 16:33:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -34,7 +34,7 @@
 				<category><![CDATA[PC]]></category>
 
 		<guid isPermaLink="false">/?p=235</guid>
-		<description><![CDATA[Kevin Jayamanna: Team Lead, Designer, Programmer Jenne Hui: Programmer, UI Alice Zhu: Programmer, Artist Jennifer Ahn: Programmer, Artist Ziwen Ran: Writer, Artist Description: Play as the enigmatic Trader Smith, as he becomes embroiled in conflict with a dangerous faction of ruthless intergalactic pirates. Build up &#8230; <a href="/trader-smiths-spaceship-emporium-by-kupohq/" class="more-link"><span>Continue reading<span class="screen-reader-text">Trader Smith&#8217;s Spaceship Emporium By KupoHQ</span></span></a>]]></description>
+		<description><![CDATA[<img src="/wp-content/uploads/2018/09/TSSEscreenshot11-300x188.png" width="300" height="188" /> &#8230; <a href="/trader-smiths-spaceship-emporium-by-kupohq/" class="more-link"><span>Continue reading<span class="screen-reader-text">Trader Smith&#8217;s Spaceship Emporium By KupoHQ</span></span></a>]]></description>
 				<content:encoded><![CDATA[<p style="text-align: center;">Kevin Jayamanna: Team Lead, Designer, Programmer<br />
 Jenne Hui: Programmer, UI<br />
 Alice Zhu: Programmer, Artist<br />
@@ -49,8 +49,8 @@ Interact with a variety of quirky and intriguing NPCs, and recruit them in your 
 Journey towards the centre of a galaxy under siege!<br />
 AND MUCH MORE (PROBABLY)<br />
 Disclaimer: this game is very much in progress, so expect significant changes in design, art, and content as development progresses.</p>
-<p style="text-align: center;"><a href="https://drive.google.com/open?id=1wpr6Yz0IP4ajxVfCxWrE-Fp2ygmEro-P"> Play this Game </a><br />
-<img class="alignnone size-medium wp-image-250 aligncenter" src="/wp-content/uploads/2018/09/TSSEscreenshot11-300x188.png" alt="" width="300" height="188" srcset="/wp-content/uploads/2018/09/TSSEscreenshot11-300x188.png 300w, /wp-content/uploads/2018/09/TSSEscreenshot11-768x481.png 768w, /wp-content/uploads/2018/09/TSSEscreenshot11-1024x642.png 1024w, /wp-content/uploads/2018/09/TSSEscreenshot11.png 1420w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p style="text-align: center;"><a href="https://drive.google.com/open?id=1wpr6Yz0IP4ajxVfCxWrE-Fp2ygmEro-P"> Play this Game </a>
+</p>
 <hr />
 <div class="carousel-slider-outer carousel-slider-outer-images carousel-slider-outer-252">
 	<style type="text/css">
@@ -106,8 +106,7 @@ Swordship is a 2D physics based fighting game where you fly spaceships that wiel
 Strike your opponents with swords, skewer them with spears or blast them from afar with cannons in this action packed brawler!</p>
 <hr />
 <p style="text-align: center;"><a href="http://swordship.com/"> Play this Game </a></p>
-<p><img class="alignnone size-medium wp-image-229 aligncenter" src="/wp-content/uploads/2018/09/swordship-300x200.png" alt="" width="300" height="200" srcset="/wp-content/uploads/2018/09/swordship-300x200.png 300w, /wp-content/uploads/2018/09/swordship.png 720w" sizes="(max-width: 300px) 100vw, 300px" /></p>
-<p><img src="/wp-content/uploads/2018/09/ha5SgE8.gif" alt="" width="300" height="300"/></p>
+<p><img class="aligncenter" src="/wp-content/uploads/2018/09/ha5SgE8.gif" alt="" width="782" height="438" /></p>
 ]]></content:encoded>
 			<wfw:commentRss>/swordship-by-team-swordship/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
@@ -130,8 +129,7 @@ Eden Ding: Programmer</p>
 Play as Joe the Barista as he fends off waves of unsatisfied customers&#8230;or prepare to get ROASTED!<br />
 Roasted is a 2D top-down shooter game built with C# in Unity, where players shoot coffee beans at waves of angry customers to survive the day.</p>
 <hr />
-<p style="text-align: center;"><a href="https://drive.google.com/open?id=1acKFmp5HWDh-iy89ze2tqFmsQ_g-Zkg2"> Play the Game </a><br />
-<img class="alignnone size-medium wp-image-209 aligncenter" src="/wp-content/uploads/2018/09/roasted-300x169.png" alt="" width="300" height="169" srcset="/wp-content/uploads/2018/09/roasted-300x169.png 300w, /wp-content/uploads/2018/09/roasted-768x431.png 768w, /wp-content/uploads/2018/09/roasted-1024x575.png 1024w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p style="text-align: center;"><a href="https://drive.google.com/open?id=1acKFmp5HWDh-iy89ze2tqFmsQ_g-Zkg2"> Play the Game </a></p>
 <p>&nbsp;<br />
 <div class="carousel-slider-outer carousel-slider-outer-images carousel-slider-outer-214">
 	<style type="text/css">

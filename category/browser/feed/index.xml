@@ -12,7 +12,7 @@
 	<atom:link href="/category/browser/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>AMS Game Development Association</description>
-	<lastBuildDate>Tue, 04 Sep 2018 16:03:23 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 04 Sep 2018 16:33:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -41,8 +41,7 @@ Swordship is a 2D physics based fighting game where you fly spaceships that wiel
 Strike your opponents with swords, skewer them with spears or blast them from afar with cannons in this action packed brawler!</p>
 <hr />
 <p style="text-align: center;"><a href="http://swordship.com/"> Play this Game </a></p>
-<p><img class="alignnone size-medium wp-image-229 aligncenter" src="/wp-content/uploads/2018/09/swordship-300x200.png" alt="" width="300" height="200" srcset="/wp-content/uploads/2018/09/swordship-300x200.png 300w, /wp-content/uploads/2018/09/swordship.png 720w" sizes="(max-width: 300px) 100vw, 300px" /></p>
-<p><img src="/wp-content/uploads/2018/09/ha5SgE8.gif" alt="" width="300" height="300"/></p>
+<p><img class="aligncenter" src="/wp-content/uploads/2018/09/ha5SgE8.gif" alt="" width="782" height="438" /></p>
 ]]></content:encoded>
 			<wfw:commentRss>/swordship-by-team-swordship/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
