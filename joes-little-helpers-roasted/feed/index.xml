@@ -10,9 +10,9 @@
 	<atom:link href="/joes-little-helpers-roasted/feed/" rel="self" type="application/rss+xml" />
 	<link>/joes-little-helpers-roasted/</link>
 	<description>AMS Game Development Association</description>
-	<lastBuildDate>Sat, 19 Jan 2019 00:33:10 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Mar 2019 16:54:54 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
 </channel>
 </rss>
