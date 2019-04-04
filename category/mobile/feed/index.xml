@@ -12,7 +12,7 @@
 	<atom:link href="/category/mobile/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>AMS Game Development Association</description>
-	<lastBuildDate>Thu, 04 Apr 2019 16:17:25 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 04 Apr 2019 17:51:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -28,7 +28,6 @@
 	<item>
 		<title>Klaymation</title>
 		<link>/klaymation/</link>
-		<comments>/klaymation/#respond</comments>
 		<pubDate>Thu, 04 Apr 2019 16:02:01 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
 				<category><![CDATA[Browser]]></category>
@@ -52,8 +51,6 @@ A 2D arcade game inspired by Tetris and Donkey Kong. There was once a wizard who
 PLAY HERE<br />
 </a></p>
 ]]></content:encoded>
-			<wfw:commentRss>/klaymation/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

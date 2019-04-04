@@ -12,7 +12,7 @@
 	<atom:link href="/author/root/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>AMS Game Development Association</description>
-	<lastBuildDate>Thu, 04 Apr 2019 16:17:25 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 04 Apr 2019 17:51:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,9 +26,37 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Night Parade</title>
+		<link>/night-parade/</link>
+		<comments>/night-parade/#respond</comments>
+		<pubDate>Thu, 04 Apr 2019 17:51:24 +0000</pubDate>
+		<dc:creator><![CDATA[root]]></dc:creator>
+				<category><![CDATA[Browser]]></category>
+		<category><![CDATA[PC]]></category>
+
+		<guid isPermaLink="false">/?p=334</guid>
+		<description><![CDATA[Team Members: Wesley Yuen Tristan Crane Demi Montes Christopher Tang Haruka Masuda Richard Miao Joey Shi Description: Follow Yuko as she travels into the Yokai Realm, a dark world mirroring our own, solves puzzles, uncovers the truth, and in an attempt to save her sister. &#8230; <a href="/night-parade/" class="more-link"><span>Continue reading<span class="screen-reader-text">Night Parade</span></span></a>]]></description>
+				<content:encoded><![CDATA[<p><strong>Team Members:</strong><br />
+Wesley Yuen<br />
+Tristan Crane<br />
+Demi Montes<br />
+Christopher Tang<br />
+Haruka Masuda<br />
+Richard Miao<br />
+Joey Shi</p>
+<hr />
+<p><strong>Description:</strong><br />
+Follow Yuko as she travels into the Yokai Realm, a dark world mirroring our own, solves puzzles, uncovers the truth, and in an attempt to save her sister.</p>
+<p style="text-align: center;"><a href="http://agda-ubc.github.io/night_parade" target="blank_"><br />
+PLAY HERE<br />
+</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/night-parade/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Klaymation</title>
 		<link>/klaymation/</link>
-		<comments>/klaymation/#respond</comments>
 		<pubDate>Thu, 04 Apr 2019 16:02:01 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
 				<category><![CDATA[Browser]]></category>
@@ -52,13 +80,10 @@ A 2D arcade game inspired by Tetris and Donkey Kong. There was once a wizard who
 PLAY HERE<br />
 </a></p>
 ]]></content:encoded>
-			<wfw:commentRss>/klaymation/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Trader Smith&#8217;s Spaceship Emporium By KupoHQ</title>
 		<link>/trader-smiths-spaceship-emporium-by-kupohq/</link>
-		<comments>/trader-smiths-spaceship-emporium-by-kupohq/#respond</comments>
 		<pubDate>Tue, 04 Sep 2018 06:46:31 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
 				<category><![CDATA[PC]]></category>
@@ -117,13 +142,10 @@ Disclaimer: this game is very much in progress, so expect significant changes in
 </div>
 
 ]]></content:encoded>
-			<wfw:commentRss>/trader-smiths-spaceship-emporium-by-kupohq/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Swordship By Team Swordship</title>
 		<link>/swordship-by-team-swordship/</link>
-		<comments>/swordship-by-team-swordship/#respond</comments>
 		<pubDate>Tue, 04 Sep 2018 06:27:47 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
 				<category><![CDATA[Browser]]></category>
@@ -138,13 +160,10 @@ Strike your opponents with swords, skewer them with spears or blast them from af
 <p style="text-align: center;"><a href="http://swordship.com/" target = "blank_"> PLAY HERE </a></p>
 <p><img class="aligncenter" src="/wp-content/uploads/2018/09/ha5SgE8.gif" alt="" width="782" height="438" /></p>
 ]]></content:encoded>
-			<wfw:commentRss>/swordship-by-team-swordship/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Joe’s Little Helpers (Roasted)</title>
 		<link>/joes-little-helpers-roasted/</link>
-		<comments>/joes-little-helpers-roasted/#respond</comments>
 		<pubDate>Tue, 04 Sep 2018 06:13:46 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
 				<category><![CDATA[PC]]></category>
@@ -196,8 +215,6 @@ Roasted is a 2D top-down shooter game built with C# in Unity, where players shoo
 </div>
 </p>
 ]]></content:encoded>
-			<wfw:commentRss>/joes-little-helpers-roasted/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
