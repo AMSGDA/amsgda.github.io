@@ -12,7 +12,7 @@
 	<atom:link href="/author/root/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>AMS Game Development Association</description>
-	<lastBuildDate>Thu, 14 Mar 2019 16:54:21 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 04 Apr 2019 16:17:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,6 +26,36 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Klaymation</title>
+		<link>/klaymation/</link>
+		<comments>/klaymation/#respond</comments>
+		<pubDate>Thu, 04 Apr 2019 16:02:01 +0000</pubDate>
+		<dc:creator><![CDATA[root]]></dc:creator>
+				<category><![CDATA[Browser]]></category>
+		<category><![CDATA[Mobile]]></category>
+
+		<guid isPermaLink="false">/?p=293</guid>
+		<description><![CDATA[Team Members: Christopher Kevin Jonathan Brandon Chan Nathan Poon Ben Spratt Theodore Pellegrin Jay Ho Brian Ackermann Alex Mountain Description: A 2D arcade game inspired by Tetris and Donkey Kong. There was once a wizard who loves to create clay during his free time. One &#8230; <a href="/klaymation/" class="more-link"><span>Continue reading<span class="screen-reader-text">Klaymation</span></span></a>]]></description>
+				<content:encoded><![CDATA[<p><strong>Team Members:</strong><br />
+Christopher Kevin Jonathan<br />
+Brandon Chan<br />
+Nathan Poon<br />
+Ben Spratt<br />
+Theodore Pellegrin<br />
+Jay Ho<br />
+Brian Ackermann<br />
+Alex Mountain</p>
+<hr />
+<p><strong>Description:</strong><br />
+A 2D arcade game inspired by Tetris and Donkey Kong. There was once a wizard who loves to create clay during his free time. One random day, his magic has gone wrong. The clay has come to life and they are trying to kill you! Use blocks to prevent them from getting near you. Clear the lines to make more space for yourself.</p>
+<p style="text-align: center;"><a href="https://simmer.io/@AMSGDA/~fe6ef424-d86e-a925-abe4-69619272ca07" target="blank_"><br />
+PLAY HERE<br />
+</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/klaymation/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Trader Smith&#8217;s Spaceship Emporium By KupoHQ</title>
 		<link>/trader-smiths-spaceship-emporium-by-kupohq/</link>
 		<comments>/trader-smiths-spaceship-emporium-by-kupohq/#respond</comments>
@@ -49,13 +79,13 @@ Interact with a variety of quirky and intriguing NPCs, and recruit them in your 
 Journey towards the centre of a galaxy under siege!<br />
 AND MUCH MORE (PROBABLY)<br />
 Disclaimer: this game is very much in progress, so expect significant changes in design, art, and content as development progresses.</p>
-<p style="text-align: center;"><a href="https://drive.google.com/open?id=1wpr6Yz0IP4ajxVfCxWrE-Fp2ygmEro-P"> Play this Game </a>
+<p style="text-align: center;"><a href="https://drive.google.com/open?id=1wpr6Yz0IP4ajxVfCxWrE-Fp2ygmEro-P" target="blank_"> PLAY HERE </a>
 </p>
 <hr />
 <div class="carousel-slider-outer carousel-slider-outer-images carousel-slider-outer-252">
 	<style type="text/css">
             #id-252 .carousel-slider-nav-icon {
-                fill: #f1f1f1
+                fill: #0a0a0a
             }
             #id-252 .carousel-slider-nav-icon:hover {
                 fill: #00d1b2
@@ -74,7 +104,7 @@ Disclaimer: this game is very much in progress, so expect significant changes in
             }
         
 		    #id-252 .owl-dots .owl-dot span {
-                background-color: #f1f1f1;
+                background-color: #0a0a0a;
                 width: 10px;
                 height: 10px;
             }
@@ -100,12 +130,12 @@ Disclaimer: this game is very much in progress, so expect significant changes in
 		<category><![CDATA[PC]]></category>
 
 		<guid isPermaLink="false">/?p=226</guid>
-		<description><![CDATA[Description: Swordship is a 2D physics based fighting game where you fly spaceships that wield giant weapons. Strike your opponents with swords, skewer them with spears or blast them from afar with cannons in this action packed brawler! Play this Game]]></description>
+		<description><![CDATA[Description: Swordship is a 2D physics based fighting game where you fly spaceships that wield giant weapons. Strike your opponents with swords, skewer them with spears or blast them from afar with cannons in this action packed brawler! PLAY HERE]]></description>
 				<content:encoded><![CDATA[<p><strong>Description:</strong><br />
 Swordship is a 2D physics based fighting game where you fly spaceships that wield giant weapons.<br />
 Strike your opponents with swords, skewer them with spears or blast them from afar with cannons in this action packed brawler!</p>
 <hr />
-<p style="text-align: center;"><a href="http://swordship.com/"> Play this Game </a></p>
+<p style="text-align: center;"><a href="http://swordship.com/" target = "blank_"> PLAY HERE </a></p>
 <p><img class="aligncenter" src="/wp-content/uploads/2018/09/ha5SgE8.gif" alt="" width="782" height="438" /></p>
 ]]></content:encoded>
 			<wfw:commentRss>/swordship-by-team-swordship/feed/</wfw:commentRss>
@@ -129,12 +159,12 @@ Eden Ding: Programmer</p>
 Play as Joe the Barista as he fends off waves of unsatisfied customers&#8230;or prepare to get ROASTED!<br />
 Roasted is a 2D top-down shooter game built with C# in Unity, where players shoot coffee beans at waves of angry customers to survive the day.</p>
 <hr />
-<p style="text-align: center;"><a href="https://drive.google.com/open?id=1acKFmp5HWDh-iy89ze2tqFmsQ_g-Zkg2"> Play the Game </a></p>
+<p style="text-align: center;"><a href="https://drive.google.com/open?id=1acKFmp5HWDh-iy89ze2tqFmsQ_g-Zkg2" target = "blank_"> PLAY HERE </a></p>
 <p>&nbsp;<br />
 <div class="carousel-slider-outer carousel-slider-outer-images carousel-slider-outer-214">
 	<style type="text/css">
             #id-214 .carousel-slider-nav-icon {
-                fill: #f1f1f1
+                fill: #0a0a0a
             }
             #id-214 .carousel-slider-nav-icon:hover {
                 fill: #00d1b2
@@ -153,7 +183,7 @@ Roasted is a 2D top-down shooter game built with C# in Unity, where players shoo
             }
         
 		    #id-214 .owl-dots .owl-dot span {
-                background-color: #f1f1f1;
+                background-color: #0a0a0a;
                 width: 10px;
                 height: 10px;
             }
