@@ -12,7 +12,7 @@
 	<atom:link href="/author/root/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>AMS Game Development Association</description>
-	<lastBuildDate>Thu, 04 Apr 2019 17:51:24 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 04 Apr 2019 19:18:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,17 +26,43 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Rooutes</title>
+		<link>/rooutes/</link>
+		<comments>/rooutes/#respond</comments>
+		<pubDate>Thu, 04 Apr 2019 19:18:56 +0000</pubDate>
+		<dc:creator><![CDATA[root]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=349</guid>
+		<description><![CDATA[Team Name: Magical Dungeon Team Members: Martin Tsang Isaac Zee Thai Ngoc Nguyen Jarjay Chen Description: A 2D top-down dungeon crawler featuring magic! Wield the elements of fire, ice, and more fire to incinerate your foes&#8230; destroying any fearful adversaries that get in your way. &#8230; <a href="/rooutes/" class="more-link"><span>Continue reading<span class="screen-reader-text">Rooutes</span></span></a>]]></description>
+				<content:encoded><![CDATA[<p><strong>Team Name:</strong> Magical Dungeon</p>
+<p><strong>Team Members:</strong><br />
+Martin Tsang<br />
+Isaac Zee<br />
+Thai Ngoc Nguyen<br />
+Jarjay Chen</p>
+<hr />
+<p><strong>Description:</strong><br />
+A 2D top-down dungeon crawler featuring magic! Wield the elements of fire, ice, and more fire to incinerate your foes&#8230; destroying any fearful adversaries that get in your way. Prove yourself worthy to go up against the Guardian of the Forest.</p>
+<p style="text-align: center;"><a href="https://simmer.io/@AMSGDA/~482eae6d-601d-b72d-787d-66aec9782bde" target="blank_"><br />
+PLAY HERE<br />
+</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/rooutes/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Night Parade</title>
 		<link>/night-parade/</link>
 		<comments>/night-parade/#respond</comments>
 		<pubDate>Thu, 04 Apr 2019 17:51:24 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
-				<category><![CDATA[Browser]]></category>
-		<category><![CDATA[PC]]></category>
+				<category><![CDATA[Uncategorized]]></category>
 
 		<guid isPermaLink="false">/?p=334</guid>
-		<description><![CDATA[Team Members: Wesley Yuen Tristan Crane Demi Montes Christopher Tang Haruka Masuda Richard Miao Joey Shi Description: Follow Yuko as she travels into the Yokai Realm, a dark world mirroring our own, solves puzzles, uncovers the truth, and in an attempt to save her sister. &#8230; <a href="/night-parade/" class="more-link"><span>Continue reading<span class="screen-reader-text">Night Parade</span></span></a>]]></description>
-				<content:encoded><![CDATA[<p><strong>Team Members:</strong><br />
+		<description><![CDATA[Team Name: Yodelin&#8217; Yokai Yanny (or Laurel) Team Members: Wesley Yuen Tristan Crane Demi Montes Christopher Tang Haruka Masuda Richard Miao Joey Shi Description: The Night Parade is a puzzle based horror game that takes place in Japan. Inspired by games such as the Witch’s &#8230; <a href="/night-parade/" class="more-link"><span>Continue reading<span class="screen-reader-text">Night Parade</span></span></a>]]></description>
+				<content:encoded><![CDATA[<p><strong>Team Name:</strong> Yodelin&#8217; Yokai Yanny (or Laurel)</p>
+<p><strong>Team Members:</strong><br />
 Wesley Yuen<br />
 Tristan Crane<br />
 Demi Montes<br />
@@ -46,7 +72,7 @@ Richard Miao<br />
 Joey Shi</p>
 <hr />
 <p><strong>Description:</strong><br />
-Follow Yuko as she travels into the Yokai Realm, a dark world mirroring our own, solves puzzles, uncovers the truth, and in an attempt to save her sister.</p>
+The Night Parade is a puzzle based horror game that takes place in Japan. Inspired by games such as the Witch’s House, follow the story of Yuko as she travels into the Yokai Realm in order to find her sister&#8211; a dark world which mirrors our own. Escape yokai, solve puzzles and uncover what’s really going on in the Yokai Realm.</p>
 <p style="text-align: center;"><a href="http://agda-ubc.github.io/night_parade" target="blank_"><br />
 PLAY HERE<br />
 </a></p>
@@ -59,8 +85,7 @@ PLAY HERE<br />
 		<link>/klaymation/</link>
 		<pubDate>Thu, 04 Apr 2019 16:02:01 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
-				<category><![CDATA[Browser]]></category>
-		<category><![CDATA[Mobile]]></category>
+				<category><![CDATA[Uncategorized]]></category>
 
 		<guid isPermaLink="false">/?p=293</guid>
 		<description><![CDATA[Team Members: Christopher Kevin Jonathan Brandon Chan Nathan Poon Ben Spratt Theodore Pellegrin Jay Ho Brian Ackermann Alex Mountain Description: A 2D arcade game inspired by Tetris and Donkey Kong. There was once a wizard who loves to create clay during his free time. One &#8230; <a href="/klaymation/" class="more-link"><span>Continue reading<span class="screen-reader-text">Klaymation</span></span></a>]]></description>
@@ -82,15 +107,17 @@ PLAY HERE<br />
 ]]></content:encoded>
 			</item>
 		<item>
-		<title>Trader Smith&#8217;s Spaceship Emporium By KupoHQ</title>
+		<title>Trader Smith&#8217;s Spaceship Emporium</title>
 		<link>/trader-smiths-spaceship-emporium-by-kupohq/</link>
 		<pubDate>Tue, 04 Sep 2018 06:46:31 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
-				<category><![CDATA[PC]]></category>
+				<category><![CDATA[Uncategorized]]></category>
 
 		<guid isPermaLink="false">/?p=235</guid>
-		<description><![CDATA[<img src="/wp-content/uploads/2018/09/TSSEscreenshot11-300x188.png" width="300" height="188" /> &#8230; <a href="/trader-smiths-spaceship-emporium-by-kupohq/" class="more-link"><span>Continue reading<span class="screen-reader-text">Trader Smith&#8217;s Spaceship Emporium By KupoHQ</span></span></a>]]></description>
-				<content:encoded><![CDATA[<p style="text-align: center;">Kevin Jayamanna: Team Lead, Designer, Programmer<br />
+		<description><![CDATA[<img src="/wp-content/uploads/2018/09/TSSEscreenshot11-300x188.png" width="300" height="188" /> &#8230; <a href="/trader-smiths-spaceship-emporium-by-kupohq/" class="more-link"><span>Continue reading<span class="screen-reader-text">Trader Smith&#8217;s Spaceship Emporium</span></span></a>]]></description>
+				<content:encoded><![CDATA[<p><strong>Team Name:</strong> KupoHQ</p>
+<p><strong>Team Members:</strong><br />
+Kevin Jayamanna: Team Lead, Designer, Programmer<br />
 Jenne Hui: Programmer, UI<br />
 Alice Zhu: Programmer, Artist<br />
 Jennifer Ahn: Programmer, Artist<br />
@@ -104,8 +131,7 @@ Interact with a variety of quirky and intriguing NPCs, and recruit them in your 
 Journey towards the centre of a galaxy under siege!<br />
 AND MUCH MORE (PROBABLY)<br />
 Disclaimer: this game is very much in progress, so expect significant changes in design, art, and content as development progresses.</p>
-<p style="text-align: center;"><a href="https://drive.google.com/open?id=1wpr6Yz0IP4ajxVfCxWrE-Fp2ygmEro-P" target="blank_"> PLAY HERE </a>
-</p>
+<p style="text-align: center;"><a href="https://drive.google.com/open?id=1wpr6Yz0IP4ajxVfCxWrE-Fp2ygmEro-P" target="blank_"> PLAY HERE </a></p>
 <hr />
 <div class="carousel-slider-outer carousel-slider-outer-images carousel-slider-outer-252">
 	<style type="text/css">
@@ -144,20 +170,20 @@ Disclaimer: this game is very much in progress, so expect significant changes in
 ]]></content:encoded>
 			</item>
 		<item>
-		<title>Swordship By Team Swordship</title>
+		<title>Swordship</title>
 		<link>/swordship-by-team-swordship/</link>
 		<pubDate>Tue, 04 Sep 2018 06:27:47 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
-				<category><![CDATA[Browser]]></category>
-		<category><![CDATA[PC]]></category>
+				<category><![CDATA[Uncategorized]]></category>
 
 		<guid isPermaLink="false">/?p=226</guid>
-		<description><![CDATA[Description: Swordship is a 2D physics based fighting game where you fly spaceships that wield giant weapons. Strike your opponents with swords, skewer them with spears or blast them from afar with cannons in this action packed brawler! PLAY HERE]]></description>
-				<content:encoded><![CDATA[<p><strong>Description:</strong><br />
+		<description><![CDATA[Team Name: Team Swordship Description: Swordship is a 2D physics based fighting game where you fly spaceships that wield giant weapons. Strike your opponents with swords, skewer them with spears or blast them from afar with cannons in this action packed brawler! PLAY HERE]]></description>
+				<content:encoded><![CDATA[<p><strong>Team Name:</strong> Team Swordship</p>
+<p><strong>Description:</strong><br />
 Swordship is a 2D physics based fighting game where you fly spaceships that wield giant weapons.<br />
 Strike your opponents with swords, skewer them with spears or blast them from afar with cannons in this action packed brawler!</p>
 <hr />
-<p style="text-align: center;"><a href="http://swordship.com/" target = "blank_"> PLAY HERE </a></p>
+<p style="text-align: center;"><a href="http://swordship.com/" target="blank_"> PLAY HERE </a></p>
 <p><img class="aligncenter" src="/wp-content/uploads/2018/09/ha5SgE8.gif" alt="" width="782" height="438" /></p>
 ]]></content:encoded>
 			</item>
@@ -166,11 +192,12 @@ Strike your opponents with swords, skewer them with spears or blast them from af
 		<link>/joes-little-helpers-roasted/</link>
 		<pubDate>Tue, 04 Sep 2018 06:13:46 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
-				<category><![CDATA[PC]]></category>
+				<category><![CDATA[Uncategorized]]></category>
 
 		<guid isPermaLink="false">/?p=206</guid>
-		<description><![CDATA[Charmaine Lee: Programmer Richard Le: Programmer Eden Ding: Programmer Description: Play as Joe the Barista as he fends off waves of unsatisfied customers&#8230;or prepare to get ROASTED! Roasted is a 2D top-down shooter game built with C# in Unity, where players shoot coffee beans at &#8230; <a href="/joes-little-helpers-roasted/" class="more-link"><span>Continue reading<span class="screen-reader-text">Joe’s Little Helpers (Roasted)</span></span></a>]]></description>
-				<content:encoded><![CDATA[<p style="text-align: center;">Charmaine Lee: Programmer<br />
+		<description><![CDATA[Team Members: Charmaine Lee: Programmer Richard Le: Programmer Eden Ding: Programmer Description: Play as Joe the Barista as he fends off waves of unsatisfied customers&#8230;or prepare to get ROASTED! Roasted is a 2D top-down shooter game built with C# in Unity, where players shoot coffee &#8230; <a href="/joes-little-helpers-roasted/" class="more-link"><span>Continue reading<span class="screen-reader-text">Joe’s Little Helpers (Roasted)</span></span></a>]]></description>
+				<content:encoded><![CDATA[<p><strong>Team Members:</strong><br />
+Charmaine Lee: Programmer<br />
 Richard Le: Programmer<br />
 Eden Ding: Programmer</p>
 <hr />
@@ -178,8 +205,7 @@ Eden Ding: Programmer</p>
 Play as Joe the Barista as he fends off waves of unsatisfied customers&#8230;or prepare to get ROASTED!<br />
 Roasted is a 2D top-down shooter game built with C# in Unity, where players shoot coffee beans at waves of angry customers to survive the day.</p>
 <hr />
-<p style="text-align: center;"><a href="https://drive.google.com/open?id=1acKFmp5HWDh-iy89ze2tqFmsQ_g-Zkg2" target = "blank_"> PLAY HERE </a></p>
-<p>&nbsp;<br />
+<p style="text-align: center;"><a href="https://drive.google.com/open?id=1acKFmp5HWDh-iy89ze2tqFmsQ_g-Zkg2" target="blank_"> PLAY HERE </a></p>
 <div class="carousel-slider-outer carousel-slider-outer-images carousel-slider-outer-214">
 	<style type="text/css">
             #id-214 .carousel-slider-nav-icon {
@@ -213,7 +239,7 @@ Roasted is a 2D top-down shooter game built with C# in Unity, where players shoo
 		</style>    <div id="id-214" class="owl-carousel carousel-slider arrows-outside arrows-visible-hover dots-hidden dots-center dots-square" data-slide-type="image-carousel" data-margin="10" data-slide-by="1" data-loop="true" data-lazy-load="true" data-stage-padding="0" data-auto-width="false" data-dots="false" data-nav="true" data-autoplay="true" data-autoplay-timeout="5000" data-autoplay-speed="500" data-autoplay-hover-pause="true" data-colums="1" data-colums-desktop="1" data-colums-small-desktop="1" data-colums-tablet="1" data-colums-small-tablet="1" data-colums-mobile="1">
 		<div class="carousel-slider__item"><img class="owl-lazy" data-src="/wp-content/uploads/2018/09/Screen-Shot-2018-08-28-at-17.21.35-300x168.png" width="300" height="168" alt="" /></div><div class="carousel-slider__item"><img class="owl-lazy" data-src="/wp-content/uploads/2018/09/Screen-Shot-2018-08-28-at-17.21.41-300x168.png" width="300" height="168" alt="" /></div><div class="carousel-slider__item"><img class="owl-lazy" data-src="/wp-content/uploads/2018/09/Screen-Shot-2018-08-28-at-17.21.27-300x168.png" width="300" height="168" alt="" /></div>    </div><!-- #id-## -->
 </div>
-</p>
+
 ]]></content:encoded>
 			</item>
 	</channel>
