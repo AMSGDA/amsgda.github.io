@@ -12,7 +12,7 @@
 	<atom:link href="/author/root/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>AMS Game Development Association</description>
-	<lastBuildDate>Thu, 04 Apr 2019 19:18:56 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 05 Apr 2019 07:45:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,6 +26,63 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Michelin Run</title>
+		<link>/michelin-run/</link>
+		<comments>/michelin-run/#respond</comments>
+		<pubDate>Fri, 05 Apr 2019 00:28:30 +0000</pubDate>
+		<dc:creator><![CDATA[root]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=357</guid>
+		<description><![CDATA[Team Name: Maximum Studios Team Members: Umut Polat, Project Lead Amy Liu Karan Vasdev Andrew Ting YiChen Zhang Description: The endless escape of a discredited chef from his worst nightmare- the harshest critic in the world. Help him to pick the best ingredients to prepare &#8230; <a href="/michelin-run/" class="more-link"><span>Continue reading<span class="screen-reader-text">Michelin Run</span></span></a>]]></description>
+				<content:encoded><![CDATA[<p><strong>Team Name:</strong> Maximum Studios</p>
+<p><strong>Team Members:</strong><br />
+Umut Polat, Project Lead<br />
+Amy Liu<br />
+Karan Vasdev<br />
+Andrew Ting<br />
+YiChen Zhang</p>
+<hr />
+<p><strong>Description:</strong><br />
+The endless escape of a discredited chef from his worst nightmare- the harshest critic in the world. Help him to pick the best ingredients to prepare delicious dishes and get his Michelin<br />
+star.</p>
+<p>To be released on Mobile.</p>
+<p style="text-align: center;"><a href="https://simmer.io/@AMSGDA/~0e2dd3cf-23bf-6493-c723-8d4ac9edcf1a" target="blank_"><br />
+PLAY HERE<br />
+</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/michelin-run/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Electric Crescendo</title>
+		<link>/electric-crescendo/</link>
+		<comments>/electric-crescendo/#respond</comments>
+		<pubDate>Thu, 04 Apr 2019 23:16:12 +0000</pubDate>
+		<dc:creator><![CDATA[root]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=354</guid>
+		<description><![CDATA[Team Name: EC Team Team Members: Members: Diego Icaza, Project Lead Mandy Wong David Thomas Hima Kattumuri Sheldon Chen Description: Turn-based RPG where our small Robo-protagonist must defend his home and creator from the Robo-revolutionaries searching to topple human governance with the power of music! &#8230; <a href="/electric-crescendo/" class="more-link"><span>Continue reading<span class="screen-reader-text">Electric Crescendo</span></span></a>]]></description>
+				<content:encoded><![CDATA[<p><strong>Team Name:</strong> EC Team</p>
+<p><strong>Team Members:</strong><br />
+Members:<br />
+Diego Icaza, Project Lead<br />
+Mandy Wong<br />
+David Thomas<br />
+Hima Kattumuri<br />
+Sheldon Chen</p>
+<hr />
+<p><strong>Description:</strong><br />
+Turn-based RPG where our small Robo-protagonist must defend his home and creator from the Robo-revolutionaries searching to topple human governance with the power of music! Use the instruments from your defeated enemies to increase the power of your one-man band!</p>
+<p style="text-align: center;"><a href="https://simmer.io/@AMSGDA/~f3442ab6-5181-564d-6eb2-b0acbc71e004" target="blank_"><br />
+PLAY HERE<br />
+</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/electric-crescendo/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Rooutes</title>
 		<link>/rooutes/</link>
 		<comments>/rooutes/#respond</comments>
@@ -34,10 +91,10 @@
 				<category><![CDATA[Uncategorized]]></category>
 
 		<guid isPermaLink="false">/?p=349</guid>
-		<description><![CDATA[Team Name: Magical Dungeon Team Members: Martin Tsang Isaac Zee Thai Ngoc Nguyen Jarjay Chen Description: A 2D top-down dungeon crawler featuring magic! Wield the elements of fire, ice, and more fire to incinerate your foes&#8230; destroying any fearful adversaries that get in your way. &#8230; <a href="/rooutes/" class="more-link"><span>Continue reading<span class="screen-reader-text">Rooutes</span></span></a>]]></description>
+		<description><![CDATA[Team Name: Magical Dungeon Team Members: Martin Tsang, Project Lead Isaac Zee Thai Ngoc Nguyen Jarjay Chen Description: A 2D top-down dungeon crawler featuring magic! Wield the elements of fire, ice, and more fire to incinerate your foes&#8230; destroying any fearful adversaries that get in &#8230; <a href="/rooutes/" class="more-link"><span>Continue reading<span class="screen-reader-text">Rooutes</span></span></a>]]></description>
 				<content:encoded><![CDATA[<p><strong>Team Name:</strong> Magical Dungeon</p>
 <p><strong>Team Members:</strong><br />
-Martin Tsang<br />
+Martin Tsang, Project Lead<br />
 Isaac Zee<br />
 Thai Ngoc Nguyen<br />
 Jarjay Chen</p>
@@ -60,11 +117,11 @@ PLAY HERE<br />
 				<category><![CDATA[Uncategorized]]></category>
 
 		<guid isPermaLink="false">/?p=334</guid>
-		<description><![CDATA[Team Name: Yodelin&#8217; Yokai Yanny (or Laurel) Team Members: Wesley Yuen Tristan Crane Demi Montes Christopher Tang Haruka Masuda Richard Miao Joey Shi Description: The Night Parade is a puzzle based horror game that takes place in Japan. Inspired by games such as the Witch’s &#8230; <a href="/night-parade/" class="more-link"><span>Continue reading<span class="screen-reader-text">Night Parade</span></span></a>]]></description>
+		<description><![CDATA[Team Name: Yodelin&#8217; Yokai Yanny (or Laurel) Team Members: Wesley Yuen, Co-Project Lead Tristan Crane, Co-Project Lead Demi Montes Christopher Tang Haruka Masuda Richard Miao Joey Shi Description: The Night Parade is a puzzle based horror game that takes place in Japan. Inspired by games &#8230; <a href="/night-parade/" class="more-link"><span>Continue reading<span class="screen-reader-text">Night Parade</span></span></a>]]></description>
 				<content:encoded><![CDATA[<p><strong>Team Name:</strong> Yodelin&#8217; Yokai Yanny (or Laurel)</p>
 <p><strong>Team Members:</strong><br />
-Wesley Yuen<br />
-Tristan Crane<br />
+Wesley Yuen, Co-Project Lead<br />
+Tristan Crane, Co-Project Lead<br />
 Demi Montes<br />
 Christopher Tang<br />
 Haruka Masuda<br />
@@ -88,10 +145,10 @@ PLAY HERE<br />
 				<category><![CDATA[Uncategorized]]></category>
 
 		<guid isPermaLink="false">/?p=293</guid>
-		<description><![CDATA[Team Members: Christopher Kevin Jonathan Brandon Chan Nathan Poon Ben Spratt Theodore Pellegrin Jay Ho Brian Ackermann Alex Mountain Description: A 2D arcade game inspired by Tetris and Donkey Kong. There was once a wizard who loves to create clay during his free time. One &#8230; <a href="/klaymation/" class="more-link"><span>Continue reading<span class="screen-reader-text">Klaymation</span></span></a>]]></description>
+		<description><![CDATA[Team Members: Christopher Kevin Jonathan, Co-Project Lead Brandon Chan, Co-Project Lead Nathan Poon Ben Spratt Theodore Pellegrin Jay Ho Brian Ackermann Alex Mountain Description: A 2D arcade game inspired by Tetris and Donkey Kong. There was once a wizard who loves to create clay during &#8230; <a href="/klaymation/" class="more-link"><span>Continue reading<span class="screen-reader-text">Klaymation</span></span></a>]]></description>
 				<content:encoded><![CDATA[<p><strong>Team Members:</strong><br />
-Christopher Kevin Jonathan<br />
-Brandon Chan<br />
+Christopher Kevin Jonathan, Co-Project Lead<br />
+Brandon Chan, Co-Project Lead<br />
 Nathan Poon<br />
 Ben Spratt<br />
 Theodore Pellegrin<br />
